@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [M. Chandan Swarit](chandanswarit2804@gmail.com)
+- LinkedIn - [M. Chandan Swarit](https://www.linkedin.com/in/chandan-swarit/)
 - Frontend Mentor - [@MChandanSwarit](https://www.frontendmentor.io/profile/MChandanSwarit)
