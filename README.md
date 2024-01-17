@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![screenshot](https://github.com/MChandanSwarit/Four-card-feature-section-frontendmentor-challenge/assets/144525956/33841757-2667-4a7d-bf7e-a1d271aed3ed)
 
 ## My process
 
