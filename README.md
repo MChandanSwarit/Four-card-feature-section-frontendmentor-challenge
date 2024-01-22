@@ -20,9 +20,9 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size.
 
-### Screenshot
+### Live Solution
 
-![Live Solution](https://mchandanswarit.github.io/Four-card-feature-section-frontendmentor-challenge/)
+[Live Solution](https://mchandanswarit.github.io/Four-card-feature-section-frontendmentor-challenge/)
 
 ## My process
 
