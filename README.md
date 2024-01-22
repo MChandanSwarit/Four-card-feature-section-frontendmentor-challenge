@@ -6,7 +6,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Live Solution](#live-solution)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/MChandanSwarit/Four-card-feature-section-frontendmentor-challenge/assets/144525956/33841757-2667-4a7d-bf7e-a1d271aed3ed)
+![Live Solution](https://mchandanswarit.github.io/Four-card-feature-section-frontendmentor-challenge/)
 
 ## My process
 
